@@ -4,6 +4,7 @@ import Contact from "./components/Contact.js";
 function App() {
   return (
     <div className="App">
+    <h1>Bienvenue sur Netlify !</h1>
       <Contact
         avatar="https://randomuser.me/api/portraits/men/70.jpg"
         name="Arnold Robinson"
